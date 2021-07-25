@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="filter">
+        <item>original</item>
+        <item>Grayscale</item>
+        <item>Relief</item>
+        <item>character</item>
+    </string-array>
+
+    <string-array name="sticker">
+        <item>no</item>
+        <item>glasses</item>
+        <item>glasses 2</item>
+        <item>glasses 3</item>
+        <item>glasses 4</item>
+        <item>glasses 5</item>
+
+        <item>beard</item>
+        <item>cat</item>
+        <item>dog</item>
+        <item>hat</item>
+        <item>Mouse</item>
+        <item>Flower</item>
+
+        <item>Face</item>
+        <item>Face 2</item>
+        <item>Face 3</item>
+        <item>Face 4</item>
+        <item>Face 5</item>
+
+        <item>Snap</item>
+        <item>Snap 2</item>
+        <item>Snap 3</item>
+        <item>Snap 4</item>
+        <item>Snap 5</item>
+    </string-array>
+</resources>
